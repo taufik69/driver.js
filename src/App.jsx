@@ -47,7 +47,7 @@ function App() {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae sed
         temporibus, aperiam quia voluptatum ipsam libero consequatur ullam
         placeat eius, dignissimos, aspernatur{" "}
-        <span id="span" style={{ background: "blue" }}>
+        <span id="span" style={{ background: "green" }}>
           vitae{" "}
         </span>
         ratione voluptate quo nostrum dolorem consectetur? A!
